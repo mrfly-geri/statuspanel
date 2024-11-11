@@ -1,0 +1,27 @@
+{
+  "name": "vps-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.1.2",
+    "chalk": "^4.1.2",
+    "check-disk-space": "^3.4.0",
+    "diskusage": "^1.2.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "npm": "^10.8.2",
+    "os-utils": "^0.0.14",
+    "path": "^0.12.7",
+    "pidusage": "^3.0.2",
+    "quick.db": "^7.1.3"
+  }
+}
