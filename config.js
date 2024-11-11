@@ -3,6 +3,6 @@ module.exports = {
     
     color: "#dfdb10",
     hostname: "ReHost - NODE02",
-    logo: "https://panel.rehost.hu/themes/enigma_premium/img/logo.png",
+    logo: "https://game.rehost.hu/",
     apikey: "asd"
 }
