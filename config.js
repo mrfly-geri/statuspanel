@@ -1,8 +1,8 @@
 module.exports = {
-    PORT: "8003",
+    PORT: "YOUR PORT",
     
     color: "#dfdb10",
-    hostname: "ReHost - NODE02",
+    hostname: "YOUR HOSTNAME",
     logo: "https://game.rehost.hu/",
-    apikey: "asd"
+    apikey: "YOUR API KEY"
 }
